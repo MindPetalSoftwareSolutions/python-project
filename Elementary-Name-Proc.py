@@ -1,6 +1,6 @@
 namevar = str(input("Enter Name to Check: "))
 eval_string ='6'
-write_instances = int(input("How Many Times SHall I Write It: "))
+write_instances = int(input("How Many Times Shall I Write It: "))
 eval_chars = int(input("Which Character Would You Like to Know?: "))
 index_account = -1
 count = 0
